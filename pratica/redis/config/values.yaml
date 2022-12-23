@@ -1,0 +1,4 @@
+auth:
+  password: s3nh4-brun0
+replica:
+  replicaCount: 1
